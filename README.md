@@ -1,7 +1,3 @@
-# Hi, I'm Munshi Zeehaan Aktar 👋
-
-### Entry-Level Data Analyst | SQL | Python | Power BI | Excel
-
 <h1 align="center">Hi 👋, I'm Munshi Zeehaan Aktar</h1>
 <h3 align="center">Entry-Level Data Analyst | SQL · Python · Power BI · Excel</h3>
 
