@@ -2,108 +2,86 @@
 
 ### Entry-Level Data Analyst | SQL | Python | Power BI | Excel
 
-I’m an entry-level Data Analyst focused on transforming raw data into actionable insights through **SQL, Python, Excel, and Power BI**.
+<h1 align="center">Hi 👋, I'm Munshi Zeehaan Aktar</h1>
+<h3 align="center">Entry-Level Data Analyst | SQL · Python · Power BI · Excel</h3>
 
-My portfolio demonstrates experience in **data cleaning, exploratory data analysis, statistical analysis, hypothesis testing, KPI tracking, data visualization, and dashboard development**.
-
-### 🛠️ Technical Skills
-
-**Programming & Analysis**
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* SQL
-
-**Databases**
-
-* MySQL
-* PostgreSQL
-
-**Business Intelligence & Visualization**
-
-* Power BI
-* DAX
-* Data Modeling
-* Microsoft Excel
-* Power Query
-* Pivot Tables
-
-**Analytics**
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Hypothesis Testing
-* Data Visualization
-* KPI Tracking
-* Business Insights
+<p align="center">
+  <a href="https://linkedin.com/in/zeehaan-aktar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:munshisohon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 Featured Projects
+### 🧭 About Me
 
-### 💊 Drug Safety Analysis — Python & Hypothesis Testing
+I'm an aspiring Data Analyst who turns raw, messy data into decisions people can act on. My background is a little unusual for this field — a **Bachelor of Pharmacy** — and I treat that as an edge, not a detour: I bring real domain grounding in health/science data on top of hands-on skills in SQL, Python, and Power BI.
 
+- 🔬 Comfortable moving a dataset end-to-end: clean in Python/Excel → model in SQL → visualize in Power BI
+- 📊 Focused on statistically sound analysis, not just charts — hypothesis testing, KPI tracking, dashboard design
+- 🌱 Currently sharpening DAX and data modeling for more advanced Power BI work
+- 💬 Ask me about SQL window functions, Power Query, or drug-safety statistics
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+</p>
+
+**Core competencies:** Data Cleaning · Statistical Analysis (z-tests, chi-square, Mann–Whitney U) · KPI Tracking · Dashboard Design · Requirement Analysis · DAX & Data Modeling
+
+---
+
+### 📌 Featured Projects
+
+#### [🧪 Drug Safety Analysis](https://github.com/zeehaanaktar123/drug-safety-analysis)
 Statistical analysis of 16,000+ observations from a randomized drug-safety dataset.
+- Two-proportion z-tests and chi-square tests to compare adverse-effect rates between treatment groups
+- Normality testing and Mann–Whitney U test to compare age distributions
+- **Stack:** Python, Statistical Analysis, Hypothesis Testing
 
-**What I worked on:**
+#### [📞 Call Center Performance Dashboard](https://github.com/zeehaanaktar123/call-center-dashboard)
+Interactive Excel dashboard built on a real call center dataset.
+- Power Query pipeline to clean nulls, trim whitespace, and engineer conditional columns
+- Pivot Table visualizations for call volume trends, satisfaction ratings, and rep-level performance
+- **Stack:** Excel, Power Query, Pivot Tables
 
-* Analyzed adverse-effect patterns between drug and placebo groups
-* Performed two-proportion z-tests
-* Conducted chi-square analysis
-* Applied normality testing
-* Used the Mann–Whitney U test
-* Interpreted statistical significance and evidence-based conclusions
+#### [🍫 Chocolate Sales Dashboard](https://github.com/zeehaanaktar123/chocolate-sales-dashboard)
+End-to-end sales analytics pipeline from raw data to BI dashboard.
+- Cleaned multi-country sales data in Excel Power Query, loaded into MySQL for relational analysis
+- Built a Power BI dashboard covering sales trends, top-performing products, and country-level performance
+- **Stack:** Excel, MySQL, Power BI
 
-**Tools:** Python | Pandas | NumPy | Matplotlib | Statistical Analysis
-
----
-
-### 📞 Call Center Performance Dashboard — Excel & Power Query
-
-Interactive Excel dashboard analyzing call-center performance and customer satisfaction.
-
-**What I worked on:**
-
-* Cleaned and transformed raw data using Power Query
-* Removed null values and whitespace issues
-* Created conditional columns
-* Analyzed call volume trends and satisfaction ratings
-* Compared representative-level performance
-* Built a reusable reporting workflow
-
-**Tools:** Microsoft Excel | Power Query | Pivot Tables | Data Visualization
+> 📝 *Replace the links above with your actual repo URLs once each project is pushed — see the checklist below.*
 
 ---
 
-### 🍫 Chocolate Sales Dashboard — MySQL, Excel & Power BI
+### 📈 GitHub Stats
 
-Interactive business intelligence project analyzing multi-country chocolate sales.
-
-**What I worked on:**
-
-* Cleaned and transformed sales data using Excel Power Query
-* Loaded data into MySQL for relational analysis
-* Analyzed sales trends and top-performing products
-* Compared product performance across countries
-* Built an interactive Power BI dashboard
-* Generated insights for hypothetical inventory and marketing decisions
-
-**Tools:** MySQL | Excel | Power Query | Power BI | DAX | Data Modeling
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeehaanaktar123&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeehaanaktar123&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
-## 🎯 Currently Focused On
-
-* Building practical Data Analytics projects
-* Improving SQL and Python problem-solving
-* Developing interactive Power BI dashboards
-* Applying statistical methods to real-world datasets
-* Exploring Healthcare & Pharmaceutical Analytics
+### 🎓 Certifications
+- Google Analytics Certification — Google, 2026
+- Intermediate SQL — DataCamp, 2026
+- GenAI-Powered Data Analytics Job Simulation — TATA, 2026
 
 ---
+
+<p align="center"><i>Open to Entry-Level Data Analyst roles · Based in West Bengal, India</i></p>
 
 ### 📈 My Analytics Philosophy
 
