@@ -61,15 +61,6 @@ End-to-end sales analytics pipeline from raw data to BI dashboard.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeehaanaktar123&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeehaanaktar123&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ### 🎓 Certifications
 - Google Analytics Certification — Google, 2026
 - Intermediate SQL — DataCamp, 2026
@@ -77,9 +68,9 @@ End-to-end sales analytics pipeline from raw data to BI dashboard.
 
 ---
 
-<p align="center"><i>Open to Entry-Level Data Analyst roles · Based in West Bengal, India</i></p>
-
 ### 📈 My Analytics Philosophy
 
 > **Clean the data. Understand the problem. Analyze the evidence. Communicate the insight.**
+
+<p align="center"><i>Open to Entry-Level Data Analyst roles · Based in India</i></p>
 
