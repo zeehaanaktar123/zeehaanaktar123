@@ -39,25 +39,24 @@ I'm an aspiring Data Analyst who turns raw, messy data into decisions people can
 
 ### 📌 Featured Projects
 
-#### [🧪 Drug Safety Analysis](https://github.com/zeehaanaktar123/drug-safety-analysis)
+#### [🧪 Drug Safety Analysis](https://github.com/zeehaanaktar123/DRUG-SAFETY-ANALYSIS-)
 Statistical analysis of 16,000+ observations from a randomized drug-safety dataset.
 - Two-proportion z-tests and chi-square tests to compare adverse-effect rates between treatment groups
 - Normality testing and Mann–Whitney U test to compare age distributions
 - **Stack:** Python, Statistical Analysis, Hypothesis Testing
 
-#### [📞 Call Center Performance Dashboard](https://github.com/zeehaanaktar123/call-center-dashboard)
+#### [📞 Call Center Performance Dashboard](https://github.com/zeehaanaktar123/CALL-CENTER-REPORT-)
 Interactive Excel dashboard built on a real call center dataset.
 - Power Query pipeline to clean nulls, trim whitespace, and engineer conditional columns
 - Pivot Table visualizations for call volume trends, satisfaction ratings, and rep-level performance
 - **Stack:** Excel, Power Query, Pivot Tables
 
-#### [🍫 Chocolate Sales Dashboard](https://github.com/zeehaanaktar123/chocolate-sales-dashboard)
+#### [🍫 Chocolate Sales Dashboard](https://github.com/zeehaanaktar123/CHOCOLATE-SALES-DASHBOARD-)
 End-to-end sales analytics pipeline from raw data to BI dashboard.
 - Cleaned multi-country sales data in Excel Power Query, loaded into MySQL for relational analysis
 - Built a Power BI dashboard covering sales trends, top-performing products, and country-level performance
 - **Stack:** Excel, MySQL, Power BI
 
-> 📝 *Replace the links above with your actual repo URLs once each project is pushed — see the checklist below.*
 
 ---
 
